@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+
+/* -------------------------------------    Base Classes    ---------------------------------------- */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+button {
+  border: none !important;
+}
+
+a,
+link {
+  text-decoration: none;
+  color: black;
+}
+
+/* -------------------------------------    Utils Classes    ---------------------------------------- */
+
+.text-color-primary {
+  color: #3e4462!important;
+}
+
+.bg-color-light {
+  background-color: #e5e5e5;
+}
+
+.bg-color {
+  background-color: #f8f5f2;
+}
+
+.bg-color-dark {
+  background-color: #3e4462;
+}
+
+.default-width {
+  max-width: 1000px !important;
+  margin: 0 auto !important;
+}
+
+.text-312 {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.text-318 {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.text-320 {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.text-724 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.text-720 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.text-414 {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.text-410 {
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.text-424 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.text-620 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.text-628 {
+  font-size: 28px;
+  font-weight: 600;
+}
